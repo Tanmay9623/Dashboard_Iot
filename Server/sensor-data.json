@@ -1,0 +1,23 @@
+[
+  {
+    "temperature": 72,
+    "vibration": 18,
+    "current": 10.2,
+    "voltage": 220,
+    "status": "Healthy"
+  },
+  {
+    "temperature": 85,
+    "vibration": 21,
+    "current": 10.4,
+    "voltage": 219,
+    "status": "Critical"
+  },
+  {
+    "temperature": 78,
+    "vibration": 19,
+    "current": 10.1,
+    "voltage": 221,
+    "status": "Warning"
+  }
+]
